@@ -1,6 +1,6 @@
 
 <br>
-<img src="https://raw.githubusercontent.com/hamolicious/Poisson-Disc-Sampling/master/screenshot.png?token=ANSOQSRZI6NPK5WH7T7WEZ27CDBA6">
+<img src="https://github.com/hamolicious/Poisson-Disc-Sampling/blob/master/screenshot.png?raw=true">
 <br>
 
 <strong>Required</strong><br>
