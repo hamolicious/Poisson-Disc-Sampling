@@ -1,4 +1,8 @@
 
+<br>
+<img src="https://raw.githubusercontent.com/hamolicious/Poisson-Disc-Sampling/master/screenshot.png?token=ANSOQSRZI6NPK5WH7T7WEZ27CDBA6">
+<br>
+
 <strong>Required</strong><br>
 Python 2.7-3.8<br>
 Pygame 2.0.0.dev6<br>
