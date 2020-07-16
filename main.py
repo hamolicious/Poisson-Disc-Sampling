@@ -1,3 +1,8 @@
+"""
+This file is used as a visual illustration for the Poisson Disk Sampling Algorithm
+
+"""
+
 import pygame
 from time import time
 from vector_class import Vector2D as Vec, randint, sin
